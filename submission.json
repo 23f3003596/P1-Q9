@@ -1,0 +1,7 @@
+{
+  "prompt": "A massive flock of starlings (murmuration) against a twilight sky. In the intricate details, every distinct small cluster of birds is diving sharply downward, completely unified in a steep descending trajectory. However, the overall macro-shape of the entire massive flock forms a distinct, unmistakable upward-swooping arc. High contrast, atmospheric, surreal nature photography, photorealistic --v 6.1 --ar 3:2",
+  "model": "Midjourney v6.1",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each local cluster of birds dives visibly downward (the subgroup trend), but the entire flock's macro-shape swoops unmistakably upward (the combined trend). This embodies the paradox's essence of contradictory local vs. global trajectories.",
+  "publish_email": true
+}
